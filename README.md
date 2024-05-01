@@ -67,6 +67,14 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
 </div>
 
+### 💻 Courses completed:
+
+
+| Courses                                                                                                                                 | Date                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------| :---------------------: |
+| [Frontend basic](https://certificate.ithillel.ua/view/98126850) Ukraine                                                                 | 30/10/2023 - 05/01/2024 |                                               
+| [Développeur web et web mobile (RNCP37674)](https://3wacademy.fr/3w-academy-pro/bootcamps/bootcamp-dev-web-mobile) France               | 12/02/2024 - ...        |
+
 ###
 
 <h3 align="left">🔥   My statistics:</h3>
@@ -83,5 +91,3 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img src="https://github-readme-stats.vercel.app/api?username=saintgregoire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saintgregoire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
