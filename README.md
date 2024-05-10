@@ -65,6 +65,10 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
 </div>
 
 ### 💻 Courses completed:
