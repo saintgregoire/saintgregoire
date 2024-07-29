@@ -61,6 +61,8 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374142/twig.svg" height="40" alt="twig logo"  />
   <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
