@@ -76,6 +76,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" height="40" alt="composer logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />  
 </div>
