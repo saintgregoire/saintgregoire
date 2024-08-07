@@ -43,7 +43,9 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+
+  ### High level:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -53,37 +55,68 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374142/twig.svg" height="40" alt="twig logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+
+  ### Average level:
+  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" height="40" alt="composer logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
-  <img width="12" />  
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" /> 
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" /> 
+
+  ### Beginner level:
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="40" alt="jsx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" /> 
+  
+
+  ### Additional skills:
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://www.tiilt.io/wp-content/uploads/2023/07/Design-sans-titre-3.png" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_word_macos_bigsur_icon_189948.png" height="40" alt="word logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" height="40" alt="xl logo"  />
+  <img width="12" />
+  
+  
+  ### I work with:
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" height="40" alt="wamp logo"  />
+  <img width="12" />
+  
 </div>
 
-### 💻 Courses completed:
+## 💻 Courses completed:
 
 
 | Courses                                                                                                                                 | Date                    |
@@ -93,7 +126,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 
 ###
 
-<h3 align="left">🔥   My statistics:</h3>
+<h2 align="left">🔥   My statistics:</h2>
 
 ###
 
