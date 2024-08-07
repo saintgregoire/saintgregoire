@@ -78,7 +78,9 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="gulp logo"  />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />  
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" /> 
 </div>
 
 ### 💻 Courses completed:
