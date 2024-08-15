@@ -113,6 +113,9 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" height="40" alt="wamp logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/2048px-FileZilla_logo.svg.png" height="40" alt="firezilla logo"  />
+  <img width="12" />
+  
   
 </div>
 
