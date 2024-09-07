@@ -136,7 +136,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saintgregoire&theme=tokyonight&border_radius=5.3" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=saintgregoire&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ###
