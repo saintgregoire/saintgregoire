@@ -65,6 +65,8 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
 
   ### Average level:
   <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
@@ -78,8 +80,6 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="40" alt="jsx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" /> 
 
   ### Beginner level:
