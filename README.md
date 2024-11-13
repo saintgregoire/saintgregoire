@@ -127,7 +127,8 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 | Courses                                                                                                                                 | Date                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------| :---------------------: |
 | [Frontend basic](https://certificate.ithillel.ua/view/98126850) Ukraine                                                                 | 30/10/2023 - 05/01/2024 |                                               
-| [Développeur web et web mobile (RNCP37674)](https://3wacademy.fr/3w-academy-pro/bootcamps/bootcamp-dev-web-mobile) France               | 12/02/2024 - ...        |
+| [Développeur web et web mobile (RNCP37674)](https://3wacademy.fr/3w-academy-pro/bootcamps/bootcamp-dev-web-mobile) France               | 12/02/2024 - 04/11/2024 |
+| [React](https://ithillel.ua/courses/react?utm_source=mailgun&utm_medium=email&utm_campaign=constructor&utm_content=13160086) Ukraine                                                                 | 30/10/2023 - 05/01/2024 |
 
 ###
 
