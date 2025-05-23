@@ -79,8 +79,10 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="40" alt="jsx logo"  />
+  <img src="https://www.sparks-formation.com/wp-content/uploads/2021/01/react-native-logo.png" height="40" alt="react native logo"  />
   <img width="12" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" height="40" alt="type script logo"  />
+  <img width="12" />
 
   ### Beginner level:
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
