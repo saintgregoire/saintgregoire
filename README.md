@@ -69,7 +69,7 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
 
   ### Average level:
-  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq.png" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" height="40" alt="composer logo"  />
   <img width="12" />
