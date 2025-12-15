@@ -145,12 +145,19 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 ## 💻 Courses completed:
 
 
-| Courses                                                                                                                                 | Date                    |
+| Courses                                                                                                                                 | Period                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------| :---------------------: |
 | [Frontend basic](https://certificate.ithillel.ua/view/98126850) Ukraine                                                                 | 30/10/2023 - 05/01/2024 |                                               
 | [Développeur web et web mobile (RNCP37674)](https://3wacademy.fr/3w-academy-pro/bootcamps/bootcamp-dev-web-mobile) France               | 12/02/2024 - 04/11/2024 |
 | [React](https://certificate.ithillel.ua/view/75018030) Ukraine                                                                          | 12/11/2024 - 01/01/2025 |
 | [Concepteur Développeur d'applications (RNCP37873)](https://www.francecompetences.fr/recherche/rncp/37873/) France                      | 24/03/2025 - 22/04/2026 |
+
+## 🗃️ Work experience:
+
+
+| Company name                                                           | Position                                                        | Period                  |
+| -----------------------------------------------------------------------| :-------------------------------------------------------------: | :---------------------: |
+| Rennes Internet                                                        | Intern                                                          | 30/10/2023 - 05/01/2024 |                                               
 
 ###
 
