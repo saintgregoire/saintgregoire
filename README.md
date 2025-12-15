@@ -157,7 +157,9 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
 
 | Company name                                                           | Position                                                        | Period                  |
 | -----------------------------------------------------------------------| :-------------------------------------------------------------: | :---------------------: |
-| Rennes Internet                                                        | Intern                                                          | 30/10/2023 - 05/01/2024 |                                               
+| Rennes Internet                                                        | Intern                                                          | 12/08/2024 - 26/10/2024 |       
+| SERRINE                                                                | Full Stack Developer                                            | 03/03/2025 - ...        |       
+
 
 ###
 
