@@ -136,6 +136,8 @@ As a novice full-stack developer, I am passionately driven to use my skills to c
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" height="40" alt="xcode logo"  />
+  <img width="12" />
   
   
 </div>
